@@ -1,0 +1,25 @@
+.banner-image {
+  width: 1000px;
+  height: 500px;
+}
+
+a.text-decoration-none.text-dark {
+  height: 80%;
+  padding: 10;
+}
+
+img.card-img-top.img-fluid {
+  width: 100%;
+  padding: 30px 30px;
+}
+
+.receipt-img {
+  width: 230px;
+  height: 100px;
+}
+
+@media (min-width: 768px) {
+  img#single-img {
+    width: 30vw;
+  }
+}
